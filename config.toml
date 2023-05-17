@@ -1,0 +1,46 @@
+baseURL = "https://www.bobongmahirap.com/"
+languageCode = "en-us"
+paginate = 10
+title = "Bobong Mahirap"
+
+[module]
+[[module.imports]]
+  path = "github.com/adityatelange/hugo-PaperMod"
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+identifier = "notes"
+name = "Notes"
+url = "/notes/"
+weight = 20
+
+[[menu.main]]
+identifier = "ramblings"
+name = "Ramblings"
+url = "/ramblings/"
+weight = 30
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 40
+
+
+[params]
+  mainSections = ['notes', 'ramblings']
+  ShowBreadCrumbs = true
+
+[params.homeInfoParams]
+Title = "Hello..."
+Content = """
+Welcome welcome.
+- Look this is a list.
+- See?
+- Yay!
+"""
