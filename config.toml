@@ -1,6 +1,6 @@
 baseURL = "https://www.bobongmahirap.com/"
 languageCode = "en-us"
-paginate = 10
+paginate = 20
 title = "Bobong Mahirap"
 
 [module]
@@ -33,8 +33,8 @@ weight = 40
 
 
 [params]
-  mainSections = ['notes', 'ramblings']
-  ShowBreadCrumbs = true
+mainSections = ['notes', 'ramblings']
+ShowBreadCrumbs = true
 
 [params.homeInfoParams]
 Title = "Hello..."
