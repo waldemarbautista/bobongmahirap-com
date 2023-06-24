@@ -1,6 +1,7 @@
 ---
 title: WRONG 006
 date: 2017-09-03
+tags: ["The Wrong Files"]
 ---
 
 I must apologize.  

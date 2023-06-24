@@ -1,6 +1,7 @@
 ---
 title: Paninisi
 date: 1970-01-01
+tags: ["Tryhard"]
 ---
 
 tapos na ang lahat, walang magagawa  

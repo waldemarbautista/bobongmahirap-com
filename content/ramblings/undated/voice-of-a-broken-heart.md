@@ -1,6 +1,7 @@
 ---
 title: Voice Of A Broken Heart
 date: 1970-01-01
+tags: ["Tryhard"]
 ---
 
 as another teardrop fell from my frozen eyes  

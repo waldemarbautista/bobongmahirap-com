@@ -1,6 +1,7 @@
 ---
 title: Time
 date: 1970-01-01
+tags: ["Tryhard"]
 ---
 
 looking up in the sky  

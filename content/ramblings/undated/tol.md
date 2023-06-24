@@ -1,6 +1,7 @@
 ---
 title: To ?
 date: 1970-01-01
+tags: ["Tryhard"]
 ---
 
 whenever i'm with you every single day  

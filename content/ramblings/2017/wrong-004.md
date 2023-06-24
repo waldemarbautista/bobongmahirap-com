@@ -1,6 +1,7 @@
 ---
 title: WRONG 004
 date: 2017-08-06
+tags: ["The Wrong Files"]
 ---
 
 I'm sorry, I got carried away.  

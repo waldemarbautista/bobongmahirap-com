@@ -1,6 +1,7 @@
 ---
 title: You
 date: 1970-01-01
+tags: ["Tryhard"]
 ---
 
 i consider you as my best friend  

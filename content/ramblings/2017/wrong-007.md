@@ -1,6 +1,7 @@
 ---
 title: WRONG 007
 date: 2017-09-18
+tags: ["The Wrong Files"]
 ---
 
 It is your special day.  

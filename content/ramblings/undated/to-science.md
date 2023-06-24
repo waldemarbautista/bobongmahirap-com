@@ -1,6 +1,7 @@
 ---
 title: To Science
 date: 1970-01-01
+tags: ["Tryhard"]
 ---
 
 even though you only care for the better, yet  

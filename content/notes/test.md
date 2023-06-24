@@ -1,7 +1,7 @@
 ---
 title: "Test"
 date: 2023-05-17
-tags: ["test"]
+tags: ["Test"]
 ---
 
 This is a test.

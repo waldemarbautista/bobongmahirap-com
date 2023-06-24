@@ -3,9 +3,8 @@ languageCode = "en-us"
 paginate = 20
 title = "Bobong Mahirap"
 
-[module]
 [[module.imports]]
-  path = "github.com/adityatelange/hugo-PaperMod"
+path = "github.com/adityatelange/hugo-PaperMod"
 
 [[menu.main]]
 identifier = "about"
@@ -31,7 +30,6 @@ name = "Tags"
 url = "/tags/"
 weight = 40
 
-
 [params]
 mainSections = ['notes', 'ramblings']
 ShowBreadCrumbs = true
@@ -44,3 +42,8 @@ Welcome welcome.
 - See?
 - Yay!
 """
+
+[permalinks]
+about = "/about/:filename"
+notes = "/notes/:filename"
+ramblings = "/ramblings/:filename"

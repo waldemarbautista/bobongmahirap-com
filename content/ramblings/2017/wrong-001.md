@@ -1,6 +1,7 @@
 ---
 title: WRONG 001
 date: 2017-07-22
+tags: ["The Wrong Files"]
 ---
 
 If you are suspecting that I still like you, you are correct.  

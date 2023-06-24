@@ -1,6 +1,7 @@
 ---
 title: I Choose
 date: 2004-02-23
+tags: ["Tryhard"]
 ---
 
 i like the way you think  

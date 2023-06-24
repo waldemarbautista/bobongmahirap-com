@@ -1,6 +1,7 @@
 ---
 title: To Lose A Best Friend
 date: 1970-01-01
+tags: ["Tryhard"]
 ---
 
 to lose a best friend is a sorrow of the heart  

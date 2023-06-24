@@ -1,6 +1,7 @@
 ---
 title: Deceit
 date: 2004-10-11
+tags: ["Tryhard"]
 ---
 
 he never noticed her at first  

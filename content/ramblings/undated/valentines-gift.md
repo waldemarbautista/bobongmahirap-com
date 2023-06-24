@@ -1,6 +1,7 @@
 ---
 title: Valentine's Gift
 date: 1970-01-01
+tags: ["Tryhard"]
 ---
 
 on this special day i don't know what to do  

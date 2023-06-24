@@ -1,6 +1,7 @@
 ---
 title: Friendship Lasts Forever
 date: 1970-01-01
+tags: ["Tryhard"]
 ---
 
 there was a girl in my life  

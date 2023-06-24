@@ -1,6 +1,7 @@
 ---
 title: WRONG 002
 date: 2017-07-25
+tags: ["The Wrong Files"]
 ---
 
 I like your honesty.  
