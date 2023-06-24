@@ -3,6 +3,8 @@ languageCode = "en-us"
 paginate = 20
 title = "Bobong Mahirap"
 
+googleAnalytics = "G-84YCJ9BZTQ"
+
 [[module.imports]]
 path = "github.com/adityatelange/hugo-PaperMod"
 
